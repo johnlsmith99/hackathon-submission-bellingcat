@@ -1,10 +1,10 @@
 # Project name
 
 ## Team Members
-This section is a list of team members, and possibly links to GitHub/GitLab/LinkedIn/personal blog pages for members.
+Henry Legge (XXX) & John Smith (https://github.com/johnlsmith99)
 
 ## Tool Description
-This sections discusses the purpose and motivation for the tool, and how it addresses a tool need you've identified.
+The aim of the tool is to offer users a search engine that filters out useless results and gives users suggestions for better and potentially broader queries. The tool endeavours to query and filter searches in an OSINT-specific manner. We understand that many of the tools and platforms that researchers currenetly use for OSINT are relatively static (for instance the majority of OSINT researchers use Google as their first port of call), but there are many- largely unused- ways of optimising these exercises.
 
 ## Installation
 This section includes detailed instructions for installing the tool, including any terminal commands that need to be executed and dependencies that need to be installed. Instructions should be understandable by non-technical users (e.g. someone who knows how to open a terminal and run commands, but isn't necessarily a programmer), for example:
@@ -28,3 +28,6 @@ This section includes any additional information that you want to mention about 
 - Potential next steps for the tool (i.e. what you would implement if you had more time)
 - Any limitations of the current implementation of the tool
 - Motivation for design/architecture decisions
+
+## Future Use and Potential Extensions
+- Performing routing and requesting page contents through Tor (using something like Stem for Python)
